@@ -1,4 +1,4 @@
-<img width="905" height="517" alt="output" src="https://github.com/user-attachments/assets/2b1036d2-d5a2-45aa-a054-ff5e2bf2ec1b" />                                      HOSPITAL MANAGEMENT SYSTEMS (HMS)
+                                   HOSPITAL MANAGEMENT SYSTEMS (HMS)
 
 GROUP MEMBERS:
 
