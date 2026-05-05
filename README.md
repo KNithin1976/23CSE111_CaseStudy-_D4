@@ -36,19 +36,33 @@ SAMPLE INPUT/OUTPUT:
 
 OUTPUT:
 ===== HOSPITAL MANAGEMENT SYSTEM - PATIENT REPORT =====
+
 Department: Cardiology
+
 Patient ID: 1
+
 Patient Name: Arun
+
 Age: 30
+
 Symptoms: Chest Pain
+
 Attending Doctor: Dr. Sharma
+
 Specialization: Cardiologist
+
 Appointment Date: 20 June 2026
+
 Medicine Prescribed: Aspirin
+
 Consultation Fee: 500.0
+
 Medicine Cost: 200.0
+
 Total Bill: 700.0
+
 Reviewed By: Admin1
+
 Status: Discharged Successfully
 
 
