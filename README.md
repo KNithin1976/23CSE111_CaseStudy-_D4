@@ -1,4 +1,4 @@
-                                      HOSPITAL MANAGEMENT SYSTEMS (HMS)
+<img width="905" height="517" alt="output" src="https://github.com/user-attachments/assets/2b1036d2-d5a2-45aa-a054-ff5e2bf2ec1b" />                                      HOSPITAL MANAGEMENT SYSTEMS (HMS)
 
 GROUP MEMBERS:
 
@@ -35,38 +35,23 @@ HOW TO RUN THE CODE:
 SAMPLE INPUT/OUTPUT:
 
 OUTPUT:
+===== HOSPITAL MANAGEMENT SYSTEM - PATIENT REPORT =====
 Department: Cardiology
-
-Patient Registered: Arun
-
 Patient ID: 1
-
-Name: Arun
-
+Patient Name: Arun
+Age: 30
 Symptoms: Chest Pain
-
-Appointment booked for Arun with Dr. Sharma on 20 June 2026
-
-Doctor Sharma prescribed: Aspirin
-
-Medicine: Aspirin
-
+Attending Doctor: Dr. Sharma
+Specialization: Cardiologist
+Appointment Date: 20 June 2026
+Medicine Prescribed: Aspirin
 Consultation Fee: 500.0
-
 Medicine Cost: 200.0
-
 Total Bill: 700.0
-
-Administrator Admin1 reviewing system report...
-
-Patient Treated: Arun
-
-Total Revenue Generated: 700.0
-
-System functioning normally.
+Reviewed By: Admin1
+Status: Discharged Successfully
 
 
-Patient discharged successfully.
 
 
 
